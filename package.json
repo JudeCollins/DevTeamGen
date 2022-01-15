@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7"
   },
   "name": "devteamgen",
   "description": "Generate a webpage that displays my team's basic info to have quick access to their emails and GitHub profiles",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
