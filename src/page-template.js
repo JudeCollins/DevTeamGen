@@ -16,5 +16,41 @@ const createManager = manager => {
       </div>
     `
   }
+// create card
+const createEngineer = engineer => {
+    return `
+      <div class="shadow col-2 flex-column m-2 p-0">
+        <div class="bg-info px-2 pb-1">
+          <h2>${engineer.name}</h2>
+          <h3>Engineer</h3>
+        </div>
+        <div class="flex-wrap flex-column p-0">
+          <ul class="list-unstyled m-0 p-2">
+            <li class="bg-white border border-dark px-1">ID: ${engineer.id}</li>
+            <li class="bg-white border border-dark px-1">Email: ${engineer.email}</li>
+            <li class="bg-white border border-dark px-1">Github username: ${engineer.github}</li>
+          </ul>
+        </div>
+      </div>
+    `
+  }
 
-  
+  // create card
+const createIntern = intern => {
+  return `
+    <div class="shadow col-2 flex-column m-2 p-0">
+      <div class="bg-info px-2 pb-1">
+        <h2>${intern.name}</h2>
+        <h3>Intern</h3>
+      </div>
+      <div class="flex-wrap flex-column p-0">
+        <ul class="list-unstyled m-0 p-2">
+          <li class="bg-white border border-dark px-1">ID: ${intern.id}</li>
+          <li class="bg-white border border-dark px-1">Email: ${intern.email}</li>
+          <li class="bg-white border border-dark px-1">School: ${intern.school}</li>
+        </ul>
+      </div>
+    </div>
+  `
+}
+
