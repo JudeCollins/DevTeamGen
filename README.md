@@ -38,3 +38,6 @@ To run tests, you need to run the following command: node index.js
 # Questions
 If you have any questions about the repo, open an issue or contact JudeCollins directly Jude.Collins13@yahoo.com.
 
+# Walkthrough 
+https://watch.screencastify.com/v/0XZepPdmxALsc9jxWnXR
+
