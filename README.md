@@ -41,3 +41,7 @@ If you have any questions about the repo, open an issue or contact JudeCollins d
 # Walkthrough 
 https://watch.screencastify.com/v/0XZepPdmxALsc9jxWnXR
 
+# Images
+
+![judes pics from team gen](https://user-images.githubusercontent.com/91752290/149640872-1448f62e-4221-440d-bfec-095bae1c6880.png)
+
